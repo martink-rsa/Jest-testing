@@ -1,0 +1,26 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "A basic baseline template for quick HTML / CSS / JavaScript development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch ./Assets/Scripts/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martink-rsa/Template_HTML_CSS_JS_1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martink-rsa/Template_HTML_CSS_JS_1/issues"
+  },
+  "homepage": "https://github.com/martink-rsa/Template_HTML_CSS_JS_1#readme",
+  "devDependencies": {
+    "@babel/core": "^7.8.0",
+    "@babel/preset-env": "^7.8.2",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
